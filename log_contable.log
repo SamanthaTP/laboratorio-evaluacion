@@ -1,0 +1,120 @@
+ERROR:root:MontoError: Monto inválido: -50.0.
+Traceback (most recent call last):
+  File "C:\Users\CECASIG\laboratorio-evaluacion\librodiario.py", line 28, in agregar_transaccion
+    raise Montoerror(f"Monto inválido: {monto}.")
+librodiario.Montoerror: Monto inválido: -50.0.
+ERROR:root:ValueError: Tipo inválido: gasto
+Traceback (most recent call last):
+  File "C:\Users\CECASIG\laboratorio-evaluacion\librodiario.py", line 20, in agregar_transaccion
+    raise ValueError(f"Tipo inválido: {tipo}")
+ValueError: Tipo inválido: gasto
+ERROR:root:MontoError: Monto inválido: -54.0.
+Traceback (most recent call last):
+  File "C:\Users\CECASIG\laboratorio-evaluacion\librodiario.py", line 28, in agregar_transaccion
+    raise Montoerror(f"Monto inválido: {monto}.")
+librodiario.Montoerror: Monto inválido: -54.0.
+ERROR:root:MontoError: Monto inválido: -20.0.
+Traceback (most recent call last):
+  File "C:\Users\CECASIG\laboratorio-evaluacion\librodiario.py", line 28, in agregar_transaccion
+    raise Montoerror(f"Monto inválido: {monto}.")
+librodiario.Montoerror: Monto inválido: -20.0.
+ERROR:root:MontoError: Monto inválido: -100.0.
+Traceback (most recent call last):
+  File "C:\Users\CECASIG\laboratorio-evaluacion\librodiario.py", line 28, in agregar_transaccion
+    raise Montoerror(f"Monto inválido: {monto}.")
+librodiario.Montoerror: Monto inválido: -100.0.
+ERROR:root:MontoError: Monto inválido: -50.0.
+Traceback (most recent call last):
+  File "c:\Users\CECASIG\laboratorio-evaluacion\librodiario.py", line 28, in agregar_transaccion
+    raise Montoerror(f"Monto inválido: {monto}.")
+librodiario.Montoerror: Monto inválido: -50.0.
+ERROR:root:ValueError: Tipo inválido: gasto
+Traceback (most recent call last):
+  File "c:\Users\CECASIG\laboratorio-evaluacion\librodiario.py", line 20, in agregar_transaccion
+    raise ValueError(f"Tipo inválido: {tipo}")
+ValueError: Tipo inválido: gasto
+ERROR:root:MontoError: Monto inválido: -54.0.
+Traceback (most recent call last):
+  File "c:\Users\CECASIG\laboratorio-evaluacion\librodiario.py", line 28, in agregar_transaccion
+    raise Montoerror(f"Monto inválido: {monto}.")
+librodiario.Montoerror: Monto inválido: -54.0.
+ERROR:root:MontoError: Monto inválido: -20.0.
+Traceback (most recent call last):
+  File "c:\Users\CECASIG\laboratorio-evaluacion\librodiario.py", line 28, in agregar_transaccion
+    raise Montoerror(f"Monto inválido: {monto}.")
+librodiario.Montoerror: Monto inválido: -20.0.
+ERROR:root:MontoError: Monto inválido: -100.0.
+Traceback (most recent call last):
+  File "c:\Users\CECASIG\laboratorio-evaluacion\librodiario.py", line 28, in agregar_transaccion
+    raise Montoerror(f"Monto inválido: {monto}.")
+librodiario.Montoerror: Monto inválido: -100.0.
+ERROR:root:MontoError: Monto inválido: -50.0.
+Traceback (most recent call last):
+  File "C:\Users\CECASIG\laboratorio-evaluacion\librodiario.py", line 28, in agregar_transaccion
+    raise Montoerror(f"Monto inválido: {monto}.")
+librodiario.Montoerror: Monto inválido: -50.0.
+ERROR:root:ValueError: Tipo inválido: gasto
+Traceback (most recent call last):
+  File "C:\Users\CECASIG\laboratorio-evaluacion\librodiario.py", line 20, in agregar_transaccion
+    raise ValueError(f"Tipo inválido: {tipo}")
+ValueError: Tipo inválido: gasto
+ERROR:root:MontoError: Monto inválido: -54.0.
+Traceback (most recent call last):
+  File "C:\Users\CECASIG\laboratorio-evaluacion\librodiario.py", line 28, in agregar_transaccion
+    raise Montoerror(f"Monto inválido: {monto}.")
+librodiario.Montoerror: Monto inválido: -54.0.
+ERROR:root:MontoError: Monto inválido: -20.0.
+Traceback (most recent call last):
+  File "C:\Users\CECASIG\laboratorio-evaluacion\librodiario.py", line 28, in agregar_transaccion
+    raise Montoerror(f"Monto inválido: {monto}.")
+librodiario.Montoerror: Monto inválido: -20.0.
+ERROR:root:MontoError: Monto inválido: -100.0.
+Traceback (most recent call last):
+  File "C:\Users\CECASIG\laboratorio-evaluacion\librodiario.py", line 28, in agregar_transaccion
+    raise Montoerror(f"Monto inválido: {monto}.")
+librodiario.Montoerror: Monto inválido: -100.0.
+ERROR:root:MontoError: Monto inválido: -50.0.
+Traceback (most recent call last):
+  File "c:\Users\CECASIG\laboratorio-evaluacion\librodiario.py", line 28, in agregar_transaccion
+    raise Montoerror(f"Monto inválido: {monto}.")
+librodiario.Montoerror: Monto inválido: -50.0.
+ERROR:root:MontoError: Monto inválido: -50.0.
+Traceback (most recent call last):
+  File "c:\Users\CECASIG\laboratorio-evaluacion\librodiario.py", line 28, in agregar_transaccion
+    raise Montoerror(f"Monto inválido: {monto}.")
+librodiario.Montoerror: Monto inválido: -50.0.
+ERROR:root:MontoError: Monto inválido: -50.0.
+Traceback (most recent call last):
+  File "c:\Users\CECASIG\laboratorio-evaluacion\librodiario.py", line 28, in agregar_transaccion
+    raise Montoerror(f"Monto inválido: {monto}.")
+librodiario.Montoerror: Monto inválido: -50.0.
+ERROR:root:MontoError: Monto inválido: -50.0.
+Traceback (most recent call last):
+  File "c:\Users\CECASIG\laboratorio-evaluacion\librodiario.py", line 28, in agregar_transaccion
+    raise Montoerror(f"Monto inválido: {monto}.")
+librodiario.Montoerror: Monto inválido: -50.0.
+ERROR:root:ValueError: Tipo inválido: gasto
+Traceback (most recent call last):
+  File "c:\Users\CECASIG\laboratorio-evaluacion\librodiario.py", line 20, in agregar_transaccion
+    raise ValueError(f"Tipo inválido: {tipo}")
+ValueError: Tipo inválido: gasto
+ERROR:root:ValueError: Tipo inválido: gasto
+Traceback (most recent call last):
+  File "c:\Users\CECASIG\laboratorio-evaluacion\librodiario.py", line 20, in agregar_transaccion
+    raise ValueError(f"Tipo inválido: {tipo}")
+ValueError: Tipo inválido: gasto
+ERROR:root:MontoError: Monto inválido: -54.0.
+Traceback (most recent call last):
+  File "c:\Users\CECASIG\laboratorio-evaluacion\librodiario.py", line 28, in agregar_transaccion
+    raise Montoerror(f"Monto inválido: {monto}.")
+librodiario.Montoerror: Monto inválido: -54.0.
+ERROR:root:MontoError: Monto inválido: -20.0.
+Traceback (most recent call last):
+  File "c:\Users\CECASIG\laboratorio-evaluacion\librodiario.py", line 28, in agregar_transaccion
+    raise Montoerror(f"Monto inválido: {monto}.")
+librodiario.Montoerror: Monto inválido: -20.0.
+ERROR:root:MontoError: Monto inválido: -100.0.
+Traceback (most recent call last):
+  File "c:\Users\CECASIG\laboratorio-evaluacion\librodiario.py", line 28, in agregar_transaccion
+    raise Montoerror(f"Monto inválido: {monto}.")
+librodiario.Montoerror: Monto inválido: -100.0.

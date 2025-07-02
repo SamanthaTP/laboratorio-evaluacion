@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# VSCode settings folder
+.vscode/
+
+# Entornos virtuales
+env/
+venv/
+ENV/
+.venv/
+
+
+# Archivos de bases de datos locales
+*.sqlite3
+
+# Archivos de salida o compilados
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos generados por Python packaging
+build/
+dist/
+*.egg-info/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de resumen o exportación del proyecto
+resumen.txt
+
+# Archivos temporales o de backup
+*.swp
+*~
