@@ -1,0 +1,16 @@
+librodiario.py:3:1: E402 module level import not at top of file
+librodiario.py:4:1: E402 module level import not at top of file
+librodiario.py:6:1: E302 expected 2 blank lines, found 1
+librodiario.py:9:1: E302 expected 2 blank lines, found 1
+librodiario.py:15:80: E501 line too long (97 > 79 characters)
+librodiario.py:16:54: W291 trailing whitespace
+librodiario.py:25:1: W293 blank line contains whitespace
+librodiario.py:61:1: W293 blank line contains whitespace
+librodiario.py:68:33: W291 trailing whitespace
+librodiario.py:71:80: E501 line too long (81 > 79 characters)
+librodiario.py:73:80: E501 line too long (87 > 79 characters)
+librodiario.py:78:5: E301 expected 1 blank line, found 0
+librodiario.py:79:80: E501 line too long (93 > 79 characters)
+librodiario.py:80:80: E501 line too long (91 > 79 characters)
+librodiario.py:93:80: E501 line too long (83 > 79 characters)
+librodiario.py:94:80: E501 line too long (81 > 79 characters)

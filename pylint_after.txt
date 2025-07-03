@@ -1,0 +1,28 @@
+************* Module librodiario
+librodiario.py:25:0: C0303: Trailing whitespace (trailing-whitespace)
+librodiario.py:61:0: C0303: Trailing whitespace (trailing-whitespace)
+librodiario.py:68:32: C0303: Trailing whitespace (trailing-whitespace)
+librodiario.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+librodiario.py:3:0: C0413: Import "from datetime import datetime" should be placed at the top of the module (wrong-import-position)
+librodiario.py:4:0: C0413: Import "from typing import List, Dict" should be placed at the top of the module (wrong-import-position)
+librodiario.py:6:0: C0115: Missing class docstring (missing-class-docstring)
+librodiario.py:48:15: W0718: Catching too general exception Exception (broad-exception-caught)
+librodiario.py:24:16: W0707: Consider explicitly re-raising using 'except ValueError as exc' and 'raise ValueError(f'Formato de fecha inválido: {fecha}.') from exc' (raise-missing-from)
+librodiario.py:37:12: W1203: Use lazy % formatting in logging functions (logging-fstring-interpolation)
+librodiario.py:41:12: W1203: Use lazy % formatting in logging functions (logging-fstring-interpolation)
+librodiario.py:45:12: W1203: Use lazy % formatting in logging functions (logging-fstring-interpolation)
+librodiario.py:49:12: W1203: Use lazy % formatting in logging functions (logging-fstring-interpolation)
+librodiario.py:62:4: C0116: Missing function or method docstring (missing-function-docstring)
+librodiario.py:76:15: W0718: Catching too general exception Exception (broad-exception-caught)
+librodiario.py:73:24: W1203: Use lazy % formatting in logging functions (logging-fstring-interpolation)
+librodiario.py:75:12: W1203: Use lazy % formatting in logging functions (logging-fstring-interpolation)
+librodiario.py:77:12: W1203: Use lazy % formatting in logging functions (logging-fstring-interpolation)
+librodiario.py:78:4: C0116: Missing function or method docstring (missing-function-docstring)
+librodiario.py:88:4: C0116: Missing function or method docstring (missing-function-docstring)
+librodiario.py:97:15: W0718: Catching too general exception Exception (broad-exception-caught)
+librodiario.py:96:12: W1203: Use lazy % formatting in logging functions (logging-fstring-interpolation)
+librodiario.py:98:12: W1203: Use lazy % formatting in logging functions (logging-fstring-interpolation)
+
+------------------------------------------------------------------
+Your code has been rated at 6.85/10 (previous run: 6.85/10, +0.00)
+
